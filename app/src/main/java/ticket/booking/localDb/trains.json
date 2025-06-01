@@ -1,0 +1,44 @@
+[
+  {
+    "train_id": "T001",
+    "train_no": 112288,
+    "name" : "Super Express",
+    "seats": [
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "station_times": {
+      "bangalore": "13:50:00",
+      "jaipur": "19:50:00",
+      "delhi": "20:50:00"
+    },
+    "stations": [
+      "bangalore",
+      "jaipur",
+      "delhi"
+    ]
+  },
+  {
+    "train_id": "T002",
+    "train_no": 445577,
+    "name" : "Bullet Express",
+    "seats": [
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "station_times": {
+      "ajmer": "08:50:00",
+      "ahmedabad": "12:50:00",
+      "mumbai": "18:50:00"
+    },
+    "stations": [
+      "ajmer",
+      "ahmedabad",
+      "mumbai"
+    ]
+  }
+]
